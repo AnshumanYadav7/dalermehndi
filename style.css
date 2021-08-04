@@ -14,7 +14,6 @@ iframe {
 	overflow: hidden;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
 
 
@@ -41,4 +40,13 @@ p {
 
 .justLike {
 	font-size: 200%;
+}
+
+button {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	color: red;
+	z-index: 20px;
+
 }
